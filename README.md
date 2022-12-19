@@ -1,4 +1,4 @@
-# Graffiti-Art-porfolio
+# Graffiti-Art-portfolio
 
 screenshots of the website.
 
