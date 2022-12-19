@@ -1,6 +1,6 @@
 # Graffiti-Art-porfolio
 
-#screenshots of the website
+screenshots of the website.
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/74002868/208365670-c2f5d0c6-dbc9-49c0-9609-677b507f48ac.png">
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/74002868/208365690-f562b3bb-df68-4a0d-aa58-8b0b07db94b6.png">
